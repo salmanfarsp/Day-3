@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+company = input("Enter your dream company: ")
+role = input("Enter your dream role: ")
+salary = input("Enter your dream salary: ")
+
+print("\n===== CAREER CARD =====")
+print("Name:", name)
+print("Dream Company:", company)
+print("Dream Role:", role)
+print("Dream Salary:", salary)
+print("======================")
